@@ -78,6 +78,7 @@ projects/
 ### Exercises
 
 - **Pyramid Generator**: Generate a pyramid of characters based on input.
+- **Gradebook App**: Provide a simple set of functions to calculate class averages.
 
 ## Contributing
 
