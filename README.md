@@ -79,6 +79,7 @@ projects/
 
 - **Pyramid Generator**: Generate a pyramid of characters based on input.
 - **Gradebook App**: Provide a simple set of functions to calculate class averages.
+- **Role Playing Game**: Simple text-based adventure game where players fight monsters.
 
 ## Contributing
 
