@@ -81,6 +81,7 @@ projects/
 - **Gradebook App**: Provide a simple set of functions to calculate class averages.
 - **Role Playing Game**: Simple text-based adventure game where players fight monsters.
 - **Random Color Background Changer**: Simple project to change the background color to a random color.
+- **Calorie Counter**: Simple web-based calorie tracker that helps users manage their daily calorie budget.
 
 ## Contributing
 
